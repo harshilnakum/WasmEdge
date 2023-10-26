@@ -25,7 +25,8 @@ WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime.
 ⌨️ [Run](https://wasmedge.org/docs/category/running-with-wasmedge) a standalone Wasm program or a [JavaScript program](https://wasmedge.org/docs/category/develop-wasm-apps-in-javascript) from CLI or [Docker](https://wasmedge.org/docs/start/getting-started/quick_start_docker) \
 🔌 Embed a Wasm function in your [Go](https://wasmedge.org/docs/category/go-sdk-for-embedding-wasmedge), [Rust](https://wasmedge.org/docs/category/rust-sdk-for-embedding-wasmedge), or [C](https://wasmedge.org/docs/category/c-sdk-for-embedding-wasmedge) app \
 🛠 Manage and orchestrate Wasm runtimes using [Kubernetes](https://wasmedge.org/docs/category/deploy-wasmedge-apps-in-kubernetes), [data streaming frameworks](https://wasmedge.org/docs/embed/use-case/yomo), and [blockchains](https://medium.com/ethereum-on-steroids/running-ethereum-smart-contracts-in-a-substrate-blockchain-56fbc27fc95a) \
-📚 **[Check out our official documentation](https://wasmedge.org/docs/)**
+📚 **[Check out our official documentation](https://wasmedge.org/docs/)**\
+🎯 **[Check out WasmEdge's roadmap](https://github.com/WasmEdge/WasmEdge/blob/master/docs/ROADMAP.md)**
 
 # Introduction
 
